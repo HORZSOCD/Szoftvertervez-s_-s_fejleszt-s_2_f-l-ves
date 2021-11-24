@@ -1,0 +1,7 @@
+C:\Users\Horváth Zsolt\source\repos\PBVGD1_Feleves_Feladat_SZTF2\PBVGD1_Feleves_Feladat_SZTF2\bin\Debug\PBVGD1_Feleves_Feladat_SZTF2.exe.config
+C:\Users\Horváth Zsolt\source\repos\PBVGD1_Feleves_Feladat_SZTF2\PBVGD1_Feleves_Feladat_SZTF2\bin\Debug\PBVGD1_Feleves_Feladat_SZTF2.exe
+C:\Users\Horváth Zsolt\source\repos\PBVGD1_Feleves_Feladat_SZTF2\PBVGD1_Feleves_Feladat_SZTF2\bin\Debug\PBVGD1_Feleves_Feladat_SZTF2.pdb
+C:\Users\Horváth Zsolt\source\repos\PBVGD1_Feleves_Feladat_SZTF2\PBVGD1_Feleves_Feladat_SZTF2\obj\Debug\PBVGD1_Feleves_Feladat_SZTF2.csproj.AssemblyReference.cache
+C:\Users\Horváth Zsolt\source\repos\PBVGD1_Feleves_Feladat_SZTF2\PBVGD1_Feleves_Feladat_SZTF2\obj\Debug\PBVGD1_Feleves_Feladat_SZTF2.csproj.CoreCompileInputs.cache
+C:\Users\Horváth Zsolt\source\repos\PBVGD1_Feleves_Feladat_SZTF2\PBVGD1_Feleves_Feladat_SZTF2\obj\Debug\PBVGD1_Feleves_Feladat_SZTF2.exe
+C:\Users\Horváth Zsolt\source\repos\PBVGD1_Feleves_Feladat_SZTF2\PBVGD1_Feleves_Feladat_SZTF2\obj\Debug\PBVGD1_Feleves_Feladat_SZTF2.pdb
